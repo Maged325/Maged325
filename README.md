@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 About Me
+Welcome to my portfolio! I'm a passionate data analyst with a growing interest in business intelligence and data engineering. Every project I take on is an opportunity to learn, improve, and deliver valuable insights that make a real difference.
 
-<!--
-**Maged325/Maged325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe in the power of data to transform businesses, solve problems, and spark new ideas. I’m currently leveling up my skills, aiming to grow into a senior data analyst and one day step into the world of data engineering.
 
-Here are some ideas to get you started:
+📈 Always learning, always building, always growing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Languages: Python, SQL
+
+Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup
+
+Big Data & Cloud: Apache Spark (PySpark, Data Manipulation, Window Functions), AWS (basics)
+
+Business Intelligence: Power BI, Tableau
+
+Data Handling: Data Cleaning, Data Wrangling, Data Visualization, Exploratory Data Analysis (EDA)
+
+Version Control: Git, GitHub
+
+🌱 Currently Learning
+Advanced Customer Analytics
+
+Time Series Analysis
+
+Credit Risk Modelling
+
+Credit Risk Modeling in Python
